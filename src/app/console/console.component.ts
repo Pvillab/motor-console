@@ -9,7 +9,6 @@ export class ConsoleComponent implements OnInit {
 
   constructor() { }
 
-  ngOnInit() {
-  }
+  ngOnInit() { }
 
 }
